@@ -77,3 +77,16 @@ To reproduce the analysis:
 ## 📌 Project Purpose
 
 This repository is part of my Data Science portfolio, focused on structured exploratory analysis and business-oriented insight extraction.
+---
+
+## 👤 Author
+
+Apekshya Adhikari
+Data Science Student | ML & Analytics Enthusiast  
+
+- GitHub: https://github.com/Apexx-on-top
+- LinkedIn: https://www.linkedin.com/in/apekshya-adhikari-9b86a4392/
+
+---
+
+If you found this project useful or insightful, feel free to connect.
